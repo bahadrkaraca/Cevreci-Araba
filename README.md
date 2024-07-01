@@ -19,7 +19,7 @@ To work on this project, you'll need:
 
     ```sh
     git clone https://github.com/bahadrkaraca/Cevreci-Araba.git
-    cd cevreci-araba
+    cd Cevreci-Araba
     ```
 
 2. **Open PSD Files:**
